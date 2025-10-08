@@ -1,4 +1,4 @@
-# Morphic
+# Morphic 🌀
 
 Morphic is a fictional next-generation liquidity protocol with a sleek black-and-white interactive web platform.
 
