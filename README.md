@@ -10,7 +10,7 @@ Morphic is a fictional next-generation liquidity protocol with a sleek black-and
 
 ## Installation
 ```bash
-git clone https://github.com/username/morphic.git
+git clone https://github.com/mdqst/morphic.git
 cd morphic
 npm install
 npm run dev
