@@ -1,6 +1,6 @@
 # 🌀 Morphic — Next-Gen Liquidity Protocol for Base
 
-**Morphic** is a next-generation **DeFi liquidity protocol** designed for the [Base blockchain](https://base.org).
+**Morphic** is a next-generation **DeFi liquidity protocol** designed for the [Base Blockchain](https://base.org).
 It enables efficient, composable, and permissionless liquidity provisioning across multiple tokens with an elegant **black-and-white UI** and **frictionless UX**.
 
 ---
@@ -127,16 +127,10 @@ See [CONTRIBUTING.md](docs/contributing.md) for details.
 
 * Twitter: [@morphicdefi](https://twitter.com/morphicdefi)
 * Discord: [Join the community](https://discord.gg/morphic)
-* Email: [team@morphic.finance](mailto:team@morphic.finance)
+* Email: [team@morphic.finance](mailto:spam@morphic.finance)
 
 ---
 
 ## ⚖️ License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🪞 Example UI Preview
-
-![Morphic Interface](docs/assets/preview.png)
