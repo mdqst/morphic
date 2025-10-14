@@ -63,7 +63,7 @@ npm install
 npm run dev
 ```
 
-Access the local app at [http://localhost:3000](http://localhost:3000)
+Local app @ [http://localhost:3000](http://localhost:3000)
 
 ---
 
