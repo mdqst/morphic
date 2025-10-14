@@ -1,4 +1,4 @@
-# 🌀 Morphic — Next-Gen Liquidity Protocol for Base
+# 🌀 Morphic - Next-Gen Liquidity Protocol for Base
 
 **Morphic** is a next-generation **DeFi liquidity protocol** designed for the [Base Blockchain](https://base.org).
 It enables efficient, composable, and permissionless liquidity provisioning across multiple tokens with an elegant **black-and-white UI** and **frictionless UX**.
@@ -12,12 +12,12 @@ Through its adaptive smart contracts and token-pairing mechanics, Morphic ensure
 
 ### ✨ Core Features
 
-* 🧩 **Composable Architecture** — Integrates easily with other Base protocols
-* ⚖️ **Multi-Asset Pools** — Support for diverse ERC-20 tokens
-* 🌀 **Dynamic Liquidity Routing** — Automated capital allocation for optimal returns
-* 🧠 **Next.js + Framer Motion UI** — Interactive, minimalistic dashboard
-* 🪙 **Non-custodial Design** — Users always retain control of their assets
-* 🔒 **Auditable & Transparent** — Open-source contracts and docs
+* 🧩 **Composable Architecture** - Integrates easily with other Base protocols
+* ⚖️ **Multi-Asset Pools** - Support for diverse ERC-20 tokens
+* 🌀 **Dynamic Liquidity Routing** - Automated capital allocation for optimal returns
+* 🧠 **Next.js + Framer Motion UI** - Interactive, minimalistic dashboard
+* 🪙 **Non-custodial Design** - Users always retain control of their assets
+* 🔒 **Auditable & Transparent** - Open-source contracts and docs
 
 ---
 
@@ -95,9 +95,9 @@ npx hardhat run scripts/deploy.js --network base-goerli
 
 ## 🧠 Tokenomics (Coming Soon)
 
-* **MORPH** — Native governance token
-* **Use Cases** — Fee sharing, staking rewards, DAO voting
-* **Emission Schedule** — To be announced
+* **MORPH** - Native governance token
+* **Use Cases** - Fee sharing, staking rewards, DAO voting
+* **Emission Schedule** - To be announced
 
 ---
 
