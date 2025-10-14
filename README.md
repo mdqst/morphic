@@ -96,7 +96,7 @@ npx hardhat run scripts/deploy.js --network base-goerli
 ## 🧠 Tokenomics (Coming Soon)
 
 * **MORPH** - Native governance token
-* **Use Cases** - Fee sharing, staking rewards, DAO voting
+* **Use Cases** - Fee sharing, staking rewards & DAO voting
 * **Emission Schedule** - To be announced...
 
 ---
