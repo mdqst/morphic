@@ -125,7 +125,7 @@ See [CONTRIBUTING.md](docs/contributing.md) for details.
 
 ## 📬 Community & Support
 
-* Twitter: [@morphicdefi](https://twitter.com/morphicdefi)
+* Twitter: [@morphicHQ](https://twitter.com/morphicHQ)
 * Discord: [Join the community](https://discord.gg/morphic)
 * Email: [team@morphic.finance](mailto:spam@morphic.finance)
 
