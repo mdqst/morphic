@@ -1,6 +1,6 @@
 {
   "name": "morphic",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -18,7 +18,7 @@
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@mui/icons-material": "^7.3.4",
     "@mui/material": "^7.3.4",
-    "@reown/appkit": "^1.7.10",
+    "@reown/appkit": "^1.8.2",
     "@reown/appkit-adapter-wagmi": "^1.7.10",
     "@reown/appkit-adapter-ethers": "^1.8.8",
     "@reown/appkit-adapter-solana": "^1.8.8",
