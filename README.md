@@ -37,7 +37,7 @@ Through its adaptive smart contracts and token-pairing mechanics, Morphic ensure
 
 ```
 morphic/
-├── contracts/          # Solidity smart contracts
+├── contracts/          # Smart contracts
 ├── scripts/            # Deployment & migration scripts
 ├── src/                # Frontend application (Next.js)
 │   ├── components/     # UI components
