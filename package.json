@@ -43,7 +43,7 @@
     "@ethersproject/providers": "^5.8.0",
     "@zerodev/ecdsa-validator": "5.4.9",
     "@zerodev/presets": "5.3.3",
-    "@zerodev/sdk": "5.5.3",
+    "@zerodev/sdk": "5.5.7",
     "@zerodev/session-key": "5.5.4",
     "@zerodev/weighted-ecdsa-validator": "5.4.4",
     "@farcaster/frame-sdk": "^0.1.10",
