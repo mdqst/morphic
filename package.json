@@ -38,7 +38,7 @@
     "@web3modal/ethereum": "^2.7.1",
     "@web3modal/react": "^2.7.1",
     "@web3modal/siwe": "^5.1.11",
-    "@web3modal/ui": "^4.0.11",
+    "@web3modal/ui": "^5.1.11",
     "@web3modal/wagmi": "^5.1.11",
     "@ethersproject/providers": "^5.8.0",
     "@zerodev/ecdsa-validator": "5.4.9",
