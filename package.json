@@ -29,7 +29,7 @@
     "@tanstack/react-query": "^5.90.2",
     "@wagmi/core": "^3.0.0",
     "@walletconnect/core": "2.23.0",
-    "@walletconnect/ethereum-provider": "2.22.2",
+    "@walletconnect/ethereum-provider": "2.23.0",
     "@walletconnect/sign-client": "2.22.2",
     "@walletconnect/types": "2.22.2",
     "@walletconnect/universal-provider": "2.22.2",
