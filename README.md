@@ -133,4 +133,4 @@ See [CONTRIBUTING.md](docs/contributing.md) for details.
 
 ## ⚖️ License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)
